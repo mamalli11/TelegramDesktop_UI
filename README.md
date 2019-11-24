@@ -1,3 +1,3 @@
 # TelegramDesktop_UI
 
-Telegram Desktop UI Cearte Bunifu Ui
+Telegram Desktop UI Made with Bunifu Ui
